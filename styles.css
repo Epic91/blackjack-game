@@ -2,7 +2,7 @@
     margin: 0;
     padding: 10px;
     box-sizing: border-box;
-    color: rgb(4, 4, 192);
+    color: #016f32;
 }
 
 body {
@@ -36,5 +36,9 @@ button {
 
 #message-el {
     font-style: italic;
+    color: white;
+}
+
+#player-el {
     color: white;
 }
