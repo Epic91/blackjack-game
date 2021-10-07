@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    color: rgb(4, 4, 192);
+}
+
+body {
+    background-image: url(./images/blackjack_image.png);
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+}
+
+h1{
+    font-family: 'Akronim', cursive;
+    font-size: 150px;
+    letter-spacing: 5px;
+    text-align: center;
+    color: rgb(177, 0, 0);
+    margin-bottom: 20px;
+}
+
+button {
+    color: #016f32;
+    width: 200px;
+    background: goldenrod;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+#message-el {
+    font-style: italic;
+    color: white;
+}
